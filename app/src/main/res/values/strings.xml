@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AddisAbaba_TourGuidApp</string>
+
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Landmarks</item>
+        <item>Resturaunts</item>
+        <item>Events</item>
+        <item>Historic Sites</item>
+    </string-array>
+
+    <string name="landmarks">Landmarks</string>
+
+    <string name="restaurant">Restaurant</string>
+
+    <string name="events">Events</string>
+
+    <string name="historic_sites">Historic Sites</string>
+
+    <string name="open_drawer">Open Drawer</string>
+
+    <string name="close_drawer">Close Drawer</string>
+</resources>
